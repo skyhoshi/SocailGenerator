@@ -1,0 +1,17 @@
+{
+  "name": "social-generator",
+  "version": "0.0.0",
+  "description": "SocialGenerator",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": {
+    "name": "marcus"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  }
+}
